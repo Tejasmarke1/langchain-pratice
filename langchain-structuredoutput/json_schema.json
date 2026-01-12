@@ -1,0 +1,11 @@
+{
+    "title": "Review Analysis",
+    "description": "A schema to analyze product reviews",
+    "type": "object",
+    "properties":{
+        "name":"string",
+        "age":"integer"
+    },
+    "required": ["name","age"]
+
+}
